@@ -12,6 +12,7 @@ CSS
 
 How to View the Website
 git clone https://trdharanisha.github.io/portfoliosimple/
+
 Open the index.html file in your web browser to view the website.
 
 Thank you for visiting the website!!
